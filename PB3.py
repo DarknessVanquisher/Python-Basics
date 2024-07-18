@@ -159,3 +159,5 @@ print(oct)
 xhh = "\x48\x65\x6c\x6c\x6f"
 print(xhh) 
 
+# NOTE - All string methods return new values. They do not change the original string.
+
