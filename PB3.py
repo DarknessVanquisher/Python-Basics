@@ -125,3 +125,37 @@ print(txt)
 print(txt1)
 print(txt3)
 
+# 5 Escape Characters
+
+# a. Single quote in single quote string...
+whosephone = 'Deepu\'s phone.'
+print(whosephone)
+
+# b. Backslash (Used to add single back slash in the string)
+gym = "cardio \\ Shoulder \\ Chest \\ Back \\"
+print(gym)
+
+# c. New Line (Will bring the sentence in the new line where this sequence is used in the sentence)
+name = "Deepu\nPanchal"
+print(name)
+
+# d. Carriage Return
+fname = "Deepu\rPanchal"
+print(fname)
+
+# e. Tab 
+zoo = "Tiger\tLion"
+print (zoo)
+
+# f. Backspace 
+frndname = "Chiranjeev Mishra"
+print(frndname)
+
+# g. Octal Value
+oct = "\110\145\154\154\157"
+print(oct)
+
+# 9. Hex Value
+xhh = "\x48\x65\x6c\x6c\x6f"
+print(xhh) 
+
