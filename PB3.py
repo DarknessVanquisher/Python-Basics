@@ -21,6 +21,7 @@ Hi there this is deepu here
 Hi there this is deepu here
 ''' # using single quotes
 
+
 # Strings are arrays 
 d = "Hello There This is 'Deepu' Here !"
 print(d[5])

@@ -7,7 +7,8 @@ print('hello world !')
 '''
 With this sign we can give multi line comments in the python.
 it is also said the multi line string which can be displayed by using the print function 
-but has to be stored in  the variable thats what it is.
+but has to be s1o
+red in  the variable thats what it is.
 '''
 #  variables in python 
 
@@ -134,3 +135,4 @@ def myfunc():
 myfunc()
 
 print("Python is " + z)
+  
