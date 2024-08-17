@@ -46,9 +46,15 @@ list9[1:2] = 'zeel','drashti'
 # if the data is in limited amount than it will be displayed like this 
 print(list9)
 
-# ordered
-   
+# insert 
+list10 = ['deep','dimple','prachi']
+list10.insert(0, 'dhaval')
+print(list10)
 
+# ordered / append 
+list11 = ['deep','dimple','prachi']
+list11.append('dhaval')
+print(list11)
+# when the new element is appended, it gets added after the existing element, proper order.
 
-
-
+# addable list items 
